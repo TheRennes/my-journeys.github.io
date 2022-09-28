@@ -1,0 +1,148 @@
+// @mixin loading-title{
+//     content: '';
+//     position: absolute;
+//     background-color: white;
+//     height: 50px;
+//     width: 50px;
+//     top: 0;
+//     left: -140px;
+//     box-shadow: 0 0 30px 60px white;
+//     opacity: 0.25;
+// }
+
+// .html-loading::before{
+//     @include loading-title;
+//     animation: loading 5s linear infinite;
+// }
+// .html-loading::after{
+//     @include loading-title;
+//     animation: loading 5s linear infinite 2.5s;
+// }
+
+// .css-loading::before{
+//     @include loading-title;
+//     animation: loading 5s linear infinite 0.3s;
+// }
+// .css-loading::after{
+//     @include loading-title;
+//     animation: loading 5s linear infinite 2.8s;
+// }
+
+// .js-loading::before{
+//     @include loading-title;
+//     animation: loading 5s linear infinite 0.6s;
+// }
+// .js-loading::after{
+//     @include loading-title;
+//     animation: loading 5s linear infinite 3.1s;
+// }
+
+// .ss-loading::before{
+//     @include loading-title;
+//     animation: loading 5s linear infinite 1.2s;
+// }
+// .ss-loading::after{
+//     @include loading-title;
+//     animation: loading 5s linear infinite 3.7s;
+// }
+
+// .jq-loading::before{
+//     @include loading-title;
+//     animation: loading 5s linear infinite 1.5s;
+// }
+// .jq-loading::after{
+//     @include loading-title;
+//     animation: loading 5s linear infinite 4s;
+// }
+
+// .ts-loading::before{
+//     @include loading-title;
+//     animation: loading 5s linear infinite 1.8s;
+// }
+// .ts-loading::after{
+//     @include loading-title;
+//     animation: loading 5s linear infinite 4.3s;
+// }
+
+// .bt-loading::before{
+//     @include loading-title;
+//     animation: loading 5s linear infinite 2.1s;
+// }
+// .bt-loading::after{
+//     @include loading-title;
+//     animation: loading 5s linear infinite 4.6s;
+// }
+
+// .re-loading::before{
+//     @include loading-title;
+//     animation: loading 5s linear infinite 2.4s;
+// }
+// .re-loading::after{
+//     @include loading-title;
+//     animation: loading 5s linear infinite 4.9s;
+// }
+
+// //EDITING & DESIGN:
+// .ps-loading::before{
+//     @include loading-title;
+//     animation: loading 5s linear infinite;
+// }
+// .ps-loading::after{
+//     @include loading-title;
+//     animation: loading 5s linear infinite 2.5s;
+// }
+
+// .il-loading::before{
+//     @include loading-title;
+//     animation: loading 5s linear infinite 0.3s;
+// }
+// .il-loading::after{
+//     @include loading-title;
+//     animation: loading 5s linear infinite 2.8s;
+// }
+
+// .pr-loading::before{
+//     @include loading-title;
+//     animation: loading 5s linear infinite 0.6s;
+// }
+// .pr-loading::after{
+//     @include loading-title;
+//     animation: loading 5s linear infinite 3.1s;
+// }
+
+// .fg-loading::before{
+//     @include loading-title;
+//     animation: loading 5s linear infinite 0.9s;
+// }
+// .fg-loading::after{
+//     @include loading-title;
+//     animation: loading 5s linear infinite 3.4s;
+// }
+
+//DATA ANALYTICS:
+// .wo-loading::before{
+//     @include loading-title;
+//     animation: loading 5s linear infinite;
+// }
+// .wo-loading::after{
+//     @include loading-title;
+//     animation: loading 5s linear infinite 2.5s;
+// }
+
+// .ex-loading::before{
+//     @include loading-title;
+//     animation: loading 5s linear infinite 0.3s;
+// }
+// .ex-loading::after{
+//     @include loading-title;
+//     animation: loading 5s linear infinite 2.8s;
+// }
+
+// .loading::before{
+//     @include loading-title;
+//     animation: loading 5s linear infinite 0.3s;
+// }
+// .loading::after{
+//     @include loading-title;
+//     animation: loading 5s linear infinite 2.8s;
+// }

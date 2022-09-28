@@ -1,0 +1,75 @@
+@keyframes moving-title{
+    0%{
+        transform: scale(96%) rotate(0deg);
+    }
+    25%{
+        transform: rotate(3deg);
+    }
+    50%{
+        transform: scale(104%) rotate(0deg);
+    }
+    75%{
+        transform: rotate(-3deg);
+    }
+    100%{
+        transform: scale(96%) rotate(0deg);
+    }
+}
+
+@keyframes loading{
+    100%{
+        transform: translateX(80vw);
+    }
+}
+
+@keyframes rotation{
+    100%{transform: rotate(360deg);}
+}
+
+@keyframes color-change{
+    0%{
+        border-top: 5px solid hsl(0, 100%, 50%);
+        box-shadow: 0 0 5px hsl(0, 100%, 50%);
+    }
+    10%{
+        border-top: 5px solid hsl(30, 100%, 50%);
+        box-shadow: 0 0 5px hsl(30, 100%, 50%);
+    }
+    20%{
+        border-top: 5px solid hsl(60, 100%, 50%);
+        box-shadow: 0 0 5px hsl(60, 100%, 50%);
+    }
+    30%{
+        border-top: 5px solid hsl(90, 100%, 50%);
+        box-shadow: 0 0 5px hsl(90, 100%, 50%);
+    }
+    40%{
+        border-top: 5px solid hsl(120, 100%, 50%);
+        box-shadow: 0 0 5px hsl(120, 100%, 50%);
+    }
+    50%{
+        border-top: 5px solid hsl(150, 100%, 50%);
+        box-shadow: 0 0 5px hsl(150, 100%, 50%);
+    }
+    60%{
+        border-top: 5px solid hsl(180, 100%, 50%);
+        box-shadow: 0 0 5px hsl(180, 100%, 50%);
+    }
+    70%{
+        border-top: 5px solid hsl(225, 100%, 50%);
+        box-shadow: 0 0 5px hsl(225, 100%, 50%);
+    }
+    80%{
+        border-top: 5px solid hsl(270, 100%, 50%);
+        box-shadow: 0 0 5px hsl(270, 100%, 50%);
+    }
+    90%{
+        border-top: 5px solid hsl(300, 100%, 50%);
+        box-shadow: 0 0 5px hsl(300, 100%, 50%);
+    }
+    100%{
+        border-top: 5px solid hsl(0, 100%, 50%);
+        box-shadow: 0 0 5px hsl(0, 100%, 50%);
+    }
+
+}
